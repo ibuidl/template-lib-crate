@@ -1,0 +1,15 @@
+[package]
+name = "template-lib-crate"
+version = "0.1.0"
+edition = "2021"
+authors = ["ibuidl <team@ibuidl.org>"]
+description = "A comprehensive template for lib crates!"
+readme = 'README.md'
+license = "Apache License 2.0"
+homepage = "https://github.com/ibuidl/template-lib-crate"
+repository = "https://github.com/ibuidl/template-lib-crate.git"
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
